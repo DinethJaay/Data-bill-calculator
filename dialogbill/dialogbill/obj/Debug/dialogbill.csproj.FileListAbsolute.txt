@@ -1,0 +1,22 @@
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.exe.config
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.exe
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.pdb
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.AssemblyReference.cache
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.SuggestedBindingRedirects.cache
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.Form1.resources
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.Properties.Resources.resources
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.GenerateResource.cache
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.CoreCompileInputs.cache
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.exe
+D:\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.pdb
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.exe.config
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.exe
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\bin\Debug\dialogbill.pdb
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.AssemblyReference.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.SuggestedBindingRedirects.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.Form1.resources
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.Properties.Resources.resources
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.GenerateResource.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.csproj.CoreCompileInputs.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.exe
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\dialogbill\dialogbill\obj\Debug\dialogbill.pdb
